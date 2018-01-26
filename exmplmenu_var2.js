@@ -107,9 +107,7 @@ Menu5=new Array("rollover:images/sailboat1.png:images/sailboat2.png","sailboatra
 
 
 
-Menu6=new Array("rollover:images/calendar1.png:images/calendar2.png","calendar.html","images/bluemenubkgd.png",2,19,90);
-	Menu6_1=new Array("rollover:images/btn_calendar_master1.png:images/btn_calendar_master2.png","calendar.html","",0,19,120);
-	Menu6_2=new Array("rollover:images/btn_calendar_races1.png:images/btn_calendar_races2.png","calendar_racedays.html","",0,0,0);
+Menu6=new Array("rollover:images/calendar1.png:images/calendar2.png","calendar.html","images/bluemenubkgd.png",0,19,90);
 
 
 

@@ -20,8 +20,11 @@
 <meta name="robots" content="index,follow" />
 <meta name="revisit-after" content="1 week" />
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 
 <body>
@@ -77,11 +80,11 @@ if (daym<10)
 daym="0"+daym
 var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
 var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
-document.write("<p style='font-family:arial,verdana,helvetica; font-size:11px; color:#ffffff; text-align:left; padding-left:9px'>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"</p>")
+document.write("<p style='font-family:arial,verdana,helvetica; font-size:11px; color:#ffffff; text-align:left; padding-left:9px; margin-top:10px'>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"</p>")
 //--><!]]></script>
 
 
-<div align="center">
+<div>
 <img src="images/spacer.gif" width="1" height="15" border="0" alt="" /><br />
 
 </div>
@@ -94,88 +97,190 @@ document.write("<p style='font-family:arial,verdana,helvetica; font-size:11px; c
 </td>
 
 <!-- center content  -->
-<td width="99%" colspan="2" valign="top" style="background-color:#ffffff"><blockquote><br />
-  <div align="left"><img src="banners/2017_calendar2_bnr.jpg" width="650" height="233" />
-</div>
+<td width="99%" colspan="2" valign="top" style="background-color:#ffffff"><br />
 <div align="left"></div>
-<table width="653" border="0">
+<div class="container">
+  <div class="page-header">
+    <h1>2018 Event Calendar</h1>
+  </div>
+  <p>Events on the water bolded.</p>
+</div>
+<div class="container">
+<table class="table table-striped">
+  <thead>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Event / Location</th>
   <tbody>
     <tr>
-      <td width="647" align="center"><strong><em>February 4 - 5:30pm - Winter Social Potluck Dinner at Concordia Lutheran Church - Kirkwood</em></strong></td>
+      <td>February 3</td>
+      <td>5:30pm</td>
+      <td>Winter Social Potluck Dinner at Concordia Lutheran Church - Kirkwood</td>
     </tr>
     <tr>
-      <td align="center">April 1 - 8am - Boatyard Cleanup</td>
+      <td>February 26</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
     </tr>
     <tr>
-      <td align="center"><strong>April 23 - 2pm - Race Day #1</strong></td>
+      <td>March 26</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
     </tr>
     <tr>
-      <td align="center">May 6 - 8am Boatyard Cleanup</td>
+      <td>April 7</td>
+      <td>8:00am</td>
+      <td>Boatyard Cleanup</td>
     </tr>
     <tr>
-      <td align="center"><strong>May 7 - 2pm - Race Day #2</strong></td>
+      <td><strong><em>April 22</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #1</em></strong></td>
     </tr>
     <tr>
-      <td align="center">June 3 - 8am - Boatyard Cleanup</td>
+      <td>April 23</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
     </tr>
     <tr>
-      <td align="center"><strong>June 4 - 2pm - Race Day #3</strong></td>
+      <td>May 5</td>
+      <td>8:00am</td>
+      <td>Boatyard Cleanup</td>
     </tr>
     <tr>
-      <td align="center"><strong>June 11 - 2pm - Race Day #4</strong></td>
+      <td><strong><em>May 6</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #2</em></strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>June 25 - 2pm - Race Day #5</strong></td>
+      <td>May 21</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
     </tr>
     <tr>
-      <td align="center">July 1 - 8am - Boatyard Cleanup</td>
+      <td>June 2</td>
+      <td>8:00am</td>
+      <td>Boatyard Cleanup</td>
     </tr>
     <tr>
-      <td align="center"><strong>July 9 - 2pm - Race Day #6</strong></td>
+      <td><strong><em>June 3</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #3</em></strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>July 23 - 2pm - Race Day #7</strong></td>
+      <td><strong><em>June 10</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #4</em></strong></td>
     </tr>
     <tr>
-      <td align="center"><strong><em>July 30 - 2pm - Special Event: Annual Naval Battle</em></strong></td>
+      <td><strong><em>June 24</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race day #5</em></strong></td>
     </tr>
     <tr>
-      <td align="center">August 5 - 8am - Boatyard Cleanup</td>
+      <td>June 25</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
     </tr>
     <tr>
-      <td align="center"><strong>August 6 - 2pm - Race Day #8</strong></td>
+      <td>July 7</td>
+      <td>8:00am</td>
+      <td>Boatyard Cleanup</td>
     </tr>
     <tr>
-      <td align="center"><strong><em>August 20 - 2pm-7pm - Special Event - The Rubber Chicken Race <br>
-      &amp; Annaul Potluck Picinic at Tremayne Shelter (after the race)</em></strong></td>
+      <td><strong><em>July 8</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #6</em></strong></td>
     </tr>
     <tr>
-      <td align="center">September 2 - 8am - Boatyark Cleanup</td>
+      <td><strong><em>July 22</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #7</em></strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>September 10 - 2pm - Race Day #9</strong></td>
+      <td>July 23</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
     </tr>
     <tr>
-      <td align="center"><strong><em>September 15-17 - &quot;Whale of a Sail&quot; - Carlyle Sailing Association</em></strong></td>
+      <td><strong><em>July 29</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Naval Battle</em></strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>September 24 - 2pm - Race Day #10</strong></td>
+      <td>August 4</td>
+      <td>8:00am</td>
+      <td>Boatyard Cleanup</td>
     </tr>
     <tr>
-      <td align="center">October 7 - 8am - Boatyard Cleanup</td>
+      <td><strong><em>August 5</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #8</em></strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>October 8 - 2pm - Race Day #11</strong></td>
+      <td><strong><em>August 19</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Rubber Chicken Race and Annual Potluck Picinic at Tremayne Shelter (after the race)</em></strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>October 22 - 2pm Race Day #12</strong></td>
+      <td>August 27</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
     </tr>
     <tr>
-      <td align="center"><strong><em>Novemebr 18 - 5pm - Annual CCSA Awards Banquet - Syberg's Restaurant</em></strong></td>
+      <td>September 1</td>
+      <td>8:00am</td>
+      <td>Boatyard Cleanup</td>
+    </tr>
+    <tr>
+      <td><strong><em>September 9</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #9</em></strong></td>
+    </tr>
+    <tr>
+      <td>September 15 - 16</td>
+      <td>All Day</td>
+      <td>"Whale of a Sail" with Carlyle Sailing Association</td>
+    </tr>
+    <tr>
+      <td><strong><em>September 23</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #10</em></strong></td>
+    </tr>
+    <tr>
+      <td>September 24</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
+    </tr>
+    <tr>
+      <td>October 6</td>
+      <td>8:00am</td>
+      <td>Boatyard Cleanup</td>
+    </tr>
+    <tr>
+      <td><strong><em>October 7</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #11</em></strong></td>
+    </tr>
+    <tr>
+      <td><strong><em>October 21</em></strong></td>
+      <td><strong><em>2:00pm</em></strong></td>
+      <td><strong><em>Race Day #12</em></strong></td>
+    </tr>
+    <tr>
+      <td>October 22</td>
+      <td>7:00pm</td>
+      <td>Board Meeting at the Commodore's house</td>
+    </tr>
+    <tr>
+      <td>November 17</td>
+      <td>5:00pm</td>
+      <td>Fall Banquet at Syberg's</td>
     </tr>
   </tbody>
 </table>
-</blockquote></td>
+</div>
+</td>
 
 </tr>
 </table>
