@@ -1,0 +1,130 @@
+20170225T002014: sailccsa.com/redesign/wp-admin/plugins.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5760 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/woocommerce/includes/class-wc-emails.php on line 373
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002020: sailccsa.com/redesign/wp-admin/plugins.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/common/src/Tribe/Timezones.php on line 151
+
+20170225T002032: sailccsa.com/redesign/wp-admin/plugin-install.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1280 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 326
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002139: sailccsa.com/redesign/wp-admin/admin-ajax.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-notices.php on line 43
+
+20170225T002147: sailccsa.com/redesign/wp-admin/themes.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/common/src/Tribe/Timezones.php on line 151
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002211: sailccsa.com/redesign/wp-admin/plugins.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1280 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/common/src/Tribe/Timezones.php on line 356
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002344: sailccsa.com/redesign/wp-admin/themes.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/common/src/Tribe/Timezones.php on line 151
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002357: sailccsa.com/redesign/wp-admin/plugins.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1280 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/common/src/Tribe/Timezones.php on line 394
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002408: sailccsa.com/redesign/wp-login.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 858473 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-includes/functions.php on line 346
+
+20170225T002548: sailccsa.com/redesign/wp-admin/edit.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 657
+
+20170225T002651: sailccsa.com/redesign/wp-admin/admin-ajax.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/woocommerce/includes/class-wc-emails.php on line 480
+
+20170225T002727: sailccsa.com/redesign/wp-admin/plugins.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 302
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002739: sailccsa.com/redesign/wp-admin/plugins.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 302
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002751: sailccsa.com/redesign/wp-admin/plugins.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 232
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002801: sailccsa.com/redesign/wp-admin/themes.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 31
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002808: sailccsa.com/redesign/wp-admin/themes.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 31
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002811: sailccsa.com/redesign/wp-admin/themes.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 31
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T002815: sailccsa.com/redesign/wp-admin/themes.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 31
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T003138: sailccsa.com/redesign/wp-admin/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 883
+
+20170225T003159: sailccsa.com/redesign/wp-admin/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 883
+
+20170225T003308: sailccsa.com/redesign/wp-admin/themes.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 31
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T003317: sailccsa.com/redesign/wp-admin/edit.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 657
+
+20170225T003422: sailccsa.com/redesign/wp-admin/admin-ajax.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/woocommerce/includes/class-wc-emails.php on line 480
+
+20170225T003523: sailccsa.com/redesign/wp-admin/admin-ajax.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12160 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 108
+
+20170225T003537: sailccsa.com/redesign/wp-admin/themes.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 31
+PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+
+20170225T004902: sailccsa.com/redesign/wp-admin/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 883
+
+20170225T084050: sailccsa.com/redesign/wp-admin/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Query.php on line 240
+
+20170225T084651: sailccsa.com/redesign/wp-admin/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/the-events-calendar/src/Tribe/Linked_Posts.php on line 883
+
+20170225T085310: sailccsa.com/redesign/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 858473 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-includes/functions.php on line 346
+
+20170225T085735: sailccsa.com/redesign/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 858473 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-includes/functions.php on line 346
+
+20170225T090043: sailccsa.com/redesign/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 858473 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-includes/functions.php on line 346
+
+20170225T090113: sailccsa.com/redesign/index.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 858473 bytes) in /hermes/walnaweb12a/b928/ccsa/redesign/wp-includes/wp-db.php on line 1475
+
+20170225T090201: sailccsa.com/redesign/index.php
+PHP Notice:  Undefined index: disable_woocommerce in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/themes/creativo/functions.php on line 43
+PHP Notice:  Trying to get property of non-object in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/themes/creativo/functions/vc_class.php on line 56
+PHP Notice:  Trying to get property of non-object in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/themes/creativo/functions/vc_class.php on line 56
+PHP Notice:  Trying to get property of non-object in /hermes/w
+20170225T090238: sailccsa.com/redesign/index.php
+PHP Notice:  Undefined index: disable_woocommerce in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/themes/creativo/functions.php on line 43
+PHP Notice:  Trying to get property of non-object in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/themes/creativo/functions/vc_class.php on line 56
+PHP Notice:  Trying to get property of non-object in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/themes/creativo/functions/vc_class.php on line 56
+PHP Notice:  Trying to get property of non-object in /hermes/w
+20170225T124952: sailccsa.com/redesign/wp-admin/customize.php
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+
+20170225T130525: sailccsa.com/redesign/wp-admin/customize.php
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+
+20170225T131119: sailccsa.com/redesign/wp-admin/widgets.php
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/walnaweb12a/b928/ccsa/redesign/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+

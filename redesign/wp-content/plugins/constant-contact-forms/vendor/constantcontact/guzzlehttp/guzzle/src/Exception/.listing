@@ -1,0 +1,11 @@
+-rwxr-xr-x   1 1328574  15010         160 Feb 25  2017 BadResponseException.php
+-rwxr-xr-x   1 1328574  15010         161 Feb 25  2017 ClientException.php
+-rwxr-xr-x   1 1328574  15010          90 Feb 25  2017 ConnectException.php
+-rwxr-xr-x   1 1328574  15010         103 Feb 25  2017 CouldNotRewindStreamException.php
+-rwxr-xr-x   1 1328574  15010         692 Feb 25  2017 ParseException.php
+-rwxr-xr-x   1 1328574  15010        3421 Feb 25  2017 RequestException.php
+-rwxr-xr-x   1 1328574  15010         161 Feb 25  2017 ServerException.php
+-rwxr-xr-x   1 1328574  15010          90 Feb 25  2017 StateException.php
+-rwxr-xr-x   1 1328574  15010          99 Feb 25  2017 TooManyRedirectsException.php
+-rwxr-xr-x   1 1328574  15010          92 Feb 25  2017 TransferException.php
+-rwxr-xr-x   1 1328574  15010         704 Feb 25  2017 XmlParseException.php

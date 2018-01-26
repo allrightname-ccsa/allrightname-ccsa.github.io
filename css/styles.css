@@ -1,0 +1,76 @@
+body 		{font-family: verdana,arial,sans-serif; font-size: 11px; color: #000000; margin: 0px; line-height: 13pt; text-decoration: none; text-align: left; background-color:#ffffff }
+
+h1 	{font-family: arial, verdana, sans-serif; font-size: 12pt; color: #336699; font-weight: bold; text-decoration: underline }
+
+h2 	{font-family:arial, verdana, sans-serif; font-size: 11pt; color: #336699; font-weight: bold; text-decoration: none }
+
+h1 	{font-family: arial, verdana, sans-serif; font-size: 12pt; color: #336699; font-weight: bold; text-decoration: none }
+
+p 	{font-family: arial, verdana, sans-serif; font-size: 10pt; color: #000000; line-height: 1.40em }
+
+ul 	{font-family: arial, verdana, sans-serif; font-size: 10pt; color: #000000; line-height: 1.40em }
+
+li 	{font-family: arial, verdana, sans-serif; font-size: 10pt; color: #000000; line-height: 1.40em }
+
+td	{
+	font-family: arial, verdana, sans-serif;
+	font-size: 14px;
+	color: #000000
+}
+
+.tdleftcolumn {font-family: arial, verdana, sans-serif; font-size: 11px; color: #ffffff ; margin: 0px; text-align: left; text-decoration: none; line-height: 80% }
+
+.footnote  	{font-family: arial, verdana, sans-serif; font-size: 11px; color: #000000; line-height: 1.5em}
+
+a 	{color: #0000ff; text-decoration: underline }
+a:visited {color: #0000ff }
+a:active {color: #0000ff }
+a:hover {color: #3333ff }
+
+a.one:link {color: #ffffff; font-size: 13px; font-family: verdana, arial, sans-serif; font-weight: normal; margin: 0px; text-align: center; text-decoration: none; }
+a.one:visited {color: #ffffff; font-size: 13px; font-family: verdana, arial, sans-serif }
+a.one:hover {color: #00cc00 }
+
+a.two:link {color: #003366; font-size: 10px; font-family: verdana, arial, sans-serif; margin: 0px; text-align: center; text-decoration: none }
+a.two:active {color: #003366; text-decoration: none }
+a.two:visited {color: #003366; font-size: 10px; font-family: verdana, arial, sans-serif; text-decoration: none }
+a.two:hover {color: #3399CC }
+
+a.three:link {color: #ffffff; font-size: 8pt; font-family: verdana, arial, sans-serif; font-weight: normal; font-style: normal; margin: 0px; text-align: center; text-decoration: none; line-height: 80% }
+a.three:active {color: #ffffff; text-decoration: none }
+a.three:visited {color: #ffffff; font-size: 8pt; font-family: verdana, arial, sans-serif; line-height: 80%; text-decoration: none }
+a.three:hover {color: #CCFFCC; text-decoration: none }
+
+a.four:link {color: #006600; font-size: 11px; font-family: verdana, arial, sans-serif; font-weight: normal; font-style: normal; margin: 0px; text-align: center; text-decoration: underline; }
+a.four:active {color: #006600 }
+a.four:visited {color: #006600; font-size: 10px; font-family: verdana, arial, sans-serif }
+a.four:hover {color: #0000ff }
+
+a.five:link {color: #0000ff; font-size: 10pt; font-family: verdana, arial, sans-serif; font-weight: normal; font-style: normal; margin: 0px; text-align: center; text-decoration: underline; }
+a.five:active {color: #660099 }
+a.five:visited {color: #660099; font-size: 10pt; font-family: verdana, arial, sans-serif }
+a.five:hover {color: #6699CC }
+
+a.six:link {color: #ff0000; font-size: 10pt; font-family: verdana, arial, sans-serif; font-weight: normal; font-style: normal; margin: 0px; text-align: center; text-decoration: underline; }
+a.six:active {color: #ff0000 }
+a.six:visited {color: #ff0000; font-size: 10pt; font-family: verdana, arial, sans-serif }
+a.six:hover {color: #c00000 }
+
+a.seven:link {color: #aaaaaa; font-size: 10px; font-family: verdana, arial, sans-serif; font-weight: normal; text-decoration: underline; }
+a.seven:active {color: #aaaaaa }
+a.seven:visited {color: #aaaaaa; font-size: 10px; font-family: verdana, arial, sans-serif }
+a.seven:hover {color: #3399CC }
+
+a.eight 	{color: #0000ff; font-size: 9pt; font-family: verdana, arial, sans-serif; font-weight: normal; text-decoration: underline }
+a.eight:visited {color: #660066 }
+a.eight:active {color: #660066 }
+a.eight:hover {color: #6666ff }
+
+a.nine:link {color: #ffffff; font-size: 9pt; font-family: verdana, arial, sans-serif; font-weight: normal; font-style: normal; margin-left: 5px; text-align: left; text-decoration: underline; line-height: 1.5em }
+a.nine:active {color: #ffffff }
+a.nine:visited {color: #ccffff; font-size: 9pt; font-family: verdana, arial, sans-serif; font-weight: normal; font-style: normal; margin-left: 5px; text-align: left; text-decoration: underline; line-height: 1.5em }
+a.nine:hover {color: #ccffff }
+
+.date 	{font-size: 9pt; font-family: verdana, arial, sans-serif; color: #99FFCC; margin: 0px; font-weight: normal; text-decoration: none; text-align: center }
+
+.copyright 	{ COLOR: #aaaaaa; FONT: 10px verdana, arial, sans-serif; font-weight: normal }

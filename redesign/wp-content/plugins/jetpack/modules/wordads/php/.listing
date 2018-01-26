@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 1328574  15010        1092 Feb 15  2017 admin.php
+-rwxr-xr-x   1 1328574  15010        2512 Feb 15  2017 api.php
+-rwxr-xr-x   1 1328574  15010         825 Feb 15  2017 cron.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 15  2017 networks
+-rwxr-xr-x   1 1328574  15010        4323 Feb 15  2017 params.php
+-rwxr-xr-x   1 1328574  15010        3449 Feb 15  2017 widgets.php

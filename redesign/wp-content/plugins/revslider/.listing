@@ -1,0 +1,9 @@
+drwxr-xr-x   4 1328574  15010        4096 Feb 25  2017 admin
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 backup
+drwxr-xr-x   3 1328574  15010        4096 Feb 25  2017 includes
+-rwxr-xr-x   1 1328574  15010           0 Feb 25  2017 index.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 languages
+drwxr-xr-x   4 1328574  15010        4096 Feb 25  2017 public
+-rwxr-xr-x   1 1328574  15010       95817 Feb 25  2017 release_log.html
+-rwxr-xr-x   1 1328574  15010        9108 Feb 25  2017 revslider.php
+-rwxr-xr-x   1 1328574  15010        1532 Feb 25  2017 uninstall.php

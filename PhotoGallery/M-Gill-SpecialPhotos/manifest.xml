@@ -1,0 +1,74 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="gallerymaker.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="gallerythumb.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\gallerythumb.jpg" />
+  <file dest="index.html" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="resources\gallery.swf" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\gallery.swf" />
+  <file dest="resources\groups\group.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\javascript\AC_OETags.js" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\javascript\AC_OETags.js" />
+  <file dest="resources\loading.swf" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\loading.swf" />
+  <file dest="resources\localization\localText.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\localization\localText.xml" />
+  <file dest="resources\media\08slideshow\large\20050719_Osprey1_0110crp2.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\20050719_Osprey1_0110crp2.jpg" />
+  <file dest="resources\media\08slideshow\large\Final_TT_AlexBaptism_IMG20050529_7692_edited-1.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\Final_TT_AlexBaptism_IMG20050529_7692_edited-1.jpg" />
+  <file dest="resources\media\08slideshow\large\Final_TT_FarewellKiss_IMG_20051004_4626.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\Final_TT_FarewellKiss_IMG_20051004_4626.jpg" />
+  <file dest="resources\media\08slideshow\large\Final_TT_FriendsAndFamily_IMG_20050528_7647.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\Final_TT_FriendsAndFamily_IMG_20050528_7647.jpg" />
+  <file dest="resources\media\08slideshow\large\HoldingOn.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\HoldingOn.jpg" />
+  <file dest="resources\media\08slideshow\large\IMG_0572_RobynBumSled_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\IMG_0572_RobynBumSled_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\large\IMG_0591aDavidBumSled_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\IMG_0591aDavidBumSled_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\large\IMG_3226a_OspreyTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\IMG_3226a_OspreyTT.jpg" />
+  <file dest="resources\media\08slideshow\large\IMG_3517aDavidElephant_4x6TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\IMG_3517aDavidElephant_4x6TT.jpg" />
+  <file dest="resources\media\08slideshow\large\IMG_5127a_David4x6TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\IMG_5127a_David4x6TT.jpg" />
+  <file dest="resources\media\08slideshow\large\IMG_8978aLewisClarkReturn_TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\IMG_8978aLewisClarkReturn_TT.jpg" />
+  <file dest="resources\media\08slideshow\large\IMG_8995aSacagawea_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\IMG_8995aSacagawea_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\medium\20050719_Osprey1_0110crp2.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\20050719_Osprey1_0110crp2.jpg" />
+  <file dest="resources\media\08slideshow\medium\Final_TT_AlexBaptism_IMG20050529_7692_edited-1.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\Final_TT_AlexBaptism_IMG20050529_7692_edited-1.jpg" />
+  <file dest="resources\media\08slideshow\medium\Final_TT_FarewellKiss_IMG_20051004_4626.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\Final_TT_FarewellKiss_IMG_20051004_4626.jpg" />
+  <file dest="resources\media\08slideshow\medium\Final_TT_FriendsAndFamily_IMG_20050528_7647.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\Final_TT_FriendsAndFamily_IMG_20050528_7647.jpg" />
+  <file dest="resources\media\08slideshow\medium\HoldingOn.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\HoldingOn.jpg" />
+  <file dest="resources\media\08slideshow\medium\IMG_0572_RobynBumSled_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\IMG_0572_RobynBumSled_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\medium\IMG_0591aDavidBumSled_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\IMG_0591aDavidBumSled_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\medium\IMG_3226a_OspreyTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\IMG_3226a_OspreyTT.jpg" />
+  <file dest="resources\media\08slideshow\medium\IMG_3517aDavidElephant_4x6TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\IMG_3517aDavidElephant_4x6TT.jpg" />
+  <file dest="resources\media\08slideshow\medium\IMG_5127a_David4x6TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\IMG_5127a_David4x6TT.jpg" />
+  <file dest="resources\media\08slideshow\medium\IMG_8978aLewisClarkReturn_TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\IMG_8978aLewisClarkReturn_TT.jpg" />
+  <file dest="resources\media\08slideshow\medium\IMG_8995aSacagawea_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\IMG_8995aSacagawea_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\small\20050719_Osprey1_0110crp2.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\20050719_Osprey1_0110crp2.jpg" />
+  <file dest="resources\media\08slideshow\small\Final_TT_AlexBaptism_IMG20050529_7692_edited-1.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\Final_TT_AlexBaptism_IMG20050529_7692_edited-1.jpg" />
+  <file dest="resources\media\08slideshow\small\Final_TT_FarewellKiss_IMG_20051004_4626.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\Final_TT_FarewellKiss_IMG_20051004_4626.jpg" />
+  <file dest="resources\media\08slideshow\small\Final_TT_FriendsAndFamily_IMG_20050528_7647.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\Final_TT_FriendsAndFamily_IMG_20050528_7647.jpg" />
+  <file dest="resources\media\08slideshow\small\HoldingOn.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\HoldingOn.jpg" />
+  <file dest="resources\media\08slideshow\small\IMG_0572_RobynBumSled_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\IMG_0572_RobynBumSled_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\small\IMG_0591aDavidBumSled_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\IMG_0591aDavidBumSled_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\small\IMG_3226a_OspreyTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\IMG_3226a_OspreyTT.jpg" />
+  <file dest="resources\media\08slideshow\small\IMG_3517aDavidElephant_4x6TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\IMG_3517aDavidElephant_4x6TT.jpg" />
+  <file dest="resources\media\08slideshow\small\IMG_5127a_David4x6TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\IMG_5127a_David4x6TT.jpg" />
+  <file dest="resources\media\08slideshow\small\IMG_8978aLewisClarkReturn_TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\IMG_8978aLewisClarkReturn_TT.jpg" />
+  <file dest="resources\media\08slideshow\small\IMG_8995aSacagawea_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\IMG_8995aSacagawea_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\thumb\20050719_Osprey1_0110crp2.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\20050719_Osprey1_0110crp2.jpg" />
+  <file dest="resources\media\08slideshow\thumb\Final_TT_AlexBaptism_IMG20050529_7692_edited-1.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\Final_TT_AlexBaptism_IMG20050529_7692_edited-1.jpg" />
+  <file dest="resources\media\08slideshow\thumb\Final_TT_FarewellKiss_IMG_20051004_4626.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\Final_TT_FarewellKiss_IMG_20051004_4626.jpg" />
+  <file dest="resources\media\08slideshow\thumb\Final_TT_FriendsAndFamily_IMG_20050528_7647.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\Final_TT_FriendsAndFamily_IMG_20050528_7647.jpg" />
+  <file dest="resources\media\08slideshow\thumb\HoldingOn.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\HoldingOn.jpg" />
+  <file dest="resources\media\08slideshow\thumb\IMG_0572_RobynBumSled_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\IMG_0572_RobynBumSled_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\thumb\IMG_0591aDavidBumSled_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\IMG_0591aDavidBumSled_crpTT.jpg" />
+  <file dest="resources\media\08slideshow\thumb\IMG_3226a_OspreyTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\IMG_3226a_OspreyTT.jpg" />
+  <file dest="resources\media\08slideshow\thumb\IMG_3517aDavidElephant_4x6TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\IMG_3517aDavidElephant_4x6TT.jpg" />
+  <file dest="resources\media\08slideshow\thumb\IMG_5127a_David4x6TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\IMG_5127a_David4x6TT.jpg" />
+  <file dest="resources\media\08slideshow\thumb\IMG_8978aLewisClarkReturn_TT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\IMG_8978aLewisClarkReturn_TT.jpg" />
+  <file dest="resources\media\08slideshow\thumb\IMG_8995aSacagawea_crpTT.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\IMG_8995aSacagawea_crpTT.jpg" />
+  <file dest="resources\media\background\scalable\10Canvas.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\10Canvas.jpg" />
+  <file dest="resources\media\background\scalable\11HandMadePaper.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\11HandMadePaper.jpg" />
+  <file dest="resources\media\background\scalable\12Linen.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\12Linen.jpg" />
+  <file dest="resources\media\background\scalable\13Marble.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\13Marble.jpg" />
+  <file dest="resources\media\background\scalable\14GrassMat.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\14GrassMat.jpg" />
+  <file dest="resources\media\background\scalable\15GrayPaper.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\15GrayPaper.jpg" />
+  <file dest="resources\media\background\scalable\16Motion.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\16Motion.jpg" />
+  <file dest="resources\media\background\scalable\17Patina.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\17Patina.jpg" />
+  <file dest="resources\media\background\scalable\18PalmLeaf.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\18PalmLeaf.jpg" />
+  <file dest="resources\playerProductInstall.swf" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\playerProductInstall.swf" />
+  <file dest="resources\styles\CCSA-2.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\styles\CCSA-2.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 1328574  15010        1517 Feb 15  2017 data-store.js
+-rwxr-xr-x   1 1328574  15010        1314 Feb 15  2017 flash-store.js
+-rwxr-xr-x   1 1328574  15010        5954 Feb 15  2017 setup-progress-store.js
+-rwxr-xr-x   1 1328574  15010        6387 Feb 15  2017 site-store.js
+-rwxr-xr-x   1 1328574  15010        1163 Feb 15  2017 spinner-store.js

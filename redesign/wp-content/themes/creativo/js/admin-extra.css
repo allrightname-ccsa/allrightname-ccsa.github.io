@@ -1,0 +1,136 @@
+.colorpicker {
+	display: none;
+}
+.creativo_customization {
+	background-color: #ededed;
+    display: none;
+}
+.creativo_customization .cr_metabox .pyre_metabox_tab{
+	display: none;
+}
+
+div[id*="pyre_"] .inside {
+	padding:0 !important;
+	margin:0 !important;
+}
+
+.creativo_customization ul.cr_metabox_tabs {
+	margin: 0;
+	width:20%;
+	float: left;
+	position: relative;
+    z-index: 30;
+}
+.creativo_customization ul.cr_metabox_tabs li {
+	margin-bottom: 0;
+	padding:10px;
+	box-sizing: border-box;
+    border: 1px solid #e2e2e2;
+    border-bottom: none;
+    border-left: 3px solid transparent;
+    background: #f7f7f7;    
+    font-weight:500;
+}
+.creativo_customization ul.cr_metabox_tabs li:hover {
+	cursor: pointer;
+}
+.creativo_customization ul.cr_metabox_tabs li:first-child {
+    border-top: none;
+}
+.creativo_customization ul.cr_metabox_tabs li:last-child {
+    border-bottom: 1px solid #e2e2e2;
+}
+.creativo_customization ul.cr_metabox_tabs li.active {
+    border-right: none;
+    border-left-color: #5bc98c;
+    background: #fff;
+}
+.creativo_customization ul.cr_metabox_tabs li a {
+	text-decoration: none;
+	color:#444;
+    outline: none;
+    display: block;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.creativo_customization .cr_metabox {
+	width: 80%;
+	float:right;
+	padding:20px;
+	box-sizing: border-box;
+	background:#ffffff;
+	border-left: 1px solid #e2e2e2;
+    position: relative;
+    left: -1px;
+    z-index: 20;
+    min-height:400px;
+}
+.pyre_metabox .wp-color-result {
+    background-image: none !important;
+    background-color: transparent !important;
+}
+
+.pyre_metabox_field {
+	padding: 25px 0;
+    border-bottom: 1px solid #f4f4f4;
+}
+.pyre_metabox_field:first-of-type {
+	padding-top: 0;
+}
+.pyre_metabox_field:last-of-type {
+	padding-bottom: 0;
+	border-bottom:none;
+}
+.pyre_metabox_field .desc_field {
+	width: 50%;
+    display: inline-block;
+    min-height:40px;    
+    box-sizing: border-box;
+    vertical-align: top;
+}
+.pyre_metabox_field .desc_field label {	
+	cursor: initial;
+    font-weight: 500;
+}
+.pyre_metabox_field .desc_field p {
+	margin-bottom:0;
+	margin-top:5px;
+	color:#777;
+	font-size:13px;
+}
+.pyre_metabox_field .field {
+    width: 45%;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-left:5%;
+}
+.pyre_metabox_field .field select,
+.pyre_metabox_field .field input[type=text] {
+    width: 100%;
+    padding-left: 10px;
+    height: 35px;
+    line-height: 35px;
+    font-size:13px;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    border-color:#e5e5e5;
+}
+.pyre_metabox_field .field textarea {
+    max-width:100%;
+}
+.pyre_metabox_field .field .upload_field {
+	width: calc(100% - 82px) !important;
+}
+.pyre_metabox_field .field .upload_button {
+	line-height: 35px;
+    height: 35px;
+    background: #222222;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    position: relative;
+    left: -1px;
+    cursor: pointer;
+    width: 80px;
+}

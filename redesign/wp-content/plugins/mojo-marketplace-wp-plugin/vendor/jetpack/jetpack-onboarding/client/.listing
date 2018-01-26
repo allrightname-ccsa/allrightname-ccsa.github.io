@@ -1,0 +1,10 @@
+drwxr-xr-x   2 1328574  15010        4096 Feb 15  2017 actions
+drwxr-xr-x   4 1328574  15010        4096 Feb 15  2017 components
+drwxr-xr-x   2 1328574  15010        4096 Feb 15  2017 constants
+drwxr-xr-x   2 1328574  15010        4096 Feb 15  2017 dispatcher
+-rwxr-xr-x   1 1328574  15010          54 Feb 15  2017 ie-shims.js
+-rwxr-xr-x   1 1328574  15010          65 Feb 15  2017 jetpack-onboarding.js
+drwxr-xr-x   2 1328574  15010        4096 Feb 15  2017 stores
+drwxr-xr-x   2 1328574  15010        4096 Feb 15  2017 utils
+-rwxr-xr-x   1 1328574  15010          43 Feb 15  2017 vendor.js
+-rwxr-xr-x   1 1328574  15010        1595 Feb 15  2017 welcome-panel.jsx

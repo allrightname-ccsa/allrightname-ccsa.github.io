@@ -1,0 +1,13 @@
+-rwxr-xr-x   1 1328574  15010        1368 Feb 25  2017 Arg.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 Bindings
+-rwxr-xr-x   1 1328574  15010        9959 Feb 25  2017 Container.php
+-rwxr-xr-x   1 1328574  15010        3852 Feb 25  2017 Ctor.php
+-rwxr-xr-x   1 1328574  15010         455 Feb 25  2017 NewInstanceArgValue.php
+-rwxr-xr-x   1 1328574  15010         249 Feb 25  2017 RealArgValue.php
+-rwxr-xr-x   1 1328574  15010         269 Feb 25  2017 ReferredArgValue.php
+-rwxr-xr-x   1 1328574  15010         172 Feb 25  2017 ReferredInstanceArgValue.php
+-rwxr-xr-x   1 1328574  15010         168 Feb 25  2017 ReferredVarArgValue.php
+-rwxr-xr-x   1 1328574  15010         926 Feb 25  2017 ServiceProvider.php
+-rwxr-xr-x   1 1328574  15010         423 Feb 25  2017 ServiceProviderInterface.php
+-rwxr-xr-x   1 1328574  15010         583 Feb 25  2017 Singleton.php
+-rwxr-xr-x   1 1328574  15010         895 Feb 25  2017 Var.php

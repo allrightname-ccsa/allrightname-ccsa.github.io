@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 1328574  15010         356 Feb 25  2017 .gitignore
+-rwxr-xr-x   1 1328574  15010         248 Feb 25  2017 .travis.yml
+-rwxr-xr-x   1 1328574  15010        2518 Feb 25  2017 README.md
+-rwxr-xr-x   1 1328574  15010         761 Feb 25  2017 composer.json
+-rwxr-xr-x   1 1328574  15010        2251 Feb 25  2017 license.txt
+-rwxr-xr-x   1 1328574  15010         238 Feb 25  2017 phpunit.xml
+drwxr-xr-x   3 1328574  15010        4096 Feb 25  2017 src
+drwxr-xr-x   5 1328574  15010        4096 Feb 25  2017 test

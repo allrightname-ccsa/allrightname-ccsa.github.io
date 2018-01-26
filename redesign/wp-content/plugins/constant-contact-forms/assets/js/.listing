@@ -1,0 +1,6 @@
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 ctct-plugin-admin
+-rwxr-xr-x   1 1328574  15010       15684 Feb 25  2017 ctct-plugin-admin.js
+-rwxr-xr-x   1 1328574  15010        7830 Feb 25  2017 ctct-plugin-admin.min.js
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 ctct-plugin-frontend
+-rwxr-xr-x   1 1328574  15010        2552 Feb 25  2017 ctct-plugin-frontend.js
+-rwxr-xr-x   1 1328574  15010        1333 Feb 25  2017 ctct-plugin-frontend.min.js

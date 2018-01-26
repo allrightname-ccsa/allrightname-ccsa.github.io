@@ -1,0 +1,15 @@
+-rwxr-xr-x   1 1328574  15010        1952 Feb 25  2017 admin-cancelled-order.php
+-rwxr-xr-x   1 1328574  15010        1944 Feb 25  2017 admin-failed-order.php
+-rwxr-xr-x   1 1328574  15010        1895 Feb 25  2017 admin-new-order.php
+-rwxr-xr-x   1 1328574  15010        1969 Feb 25  2017 customer-completed-order.php
+-rwxr-xr-x   1 1328574  15010        2030 Feb 25  2017 customer-invoice.php
+-rwxr-xr-x   1 1328574  15010        1514 Feb 25  2017 customer-new-account.php
+-rwxr-xr-x   1 1328574  15010        2026 Feb 25  2017 customer-note.php
+-rwxr-xr-x   1 1328574  15010        1862 Feb 25  2017 customer-on-hold-order.php
+-rwxr-xr-x   1 1328574  15010        1924 Feb 25  2017 customer-processing-order.php
+-rwxr-xr-x   1 1328574  15010        1959 Feb 25  2017 customer-refunded-order.php
+-rwxr-xr-x   1 1328574  15010        1624 Feb 25  2017 customer-reset-password.php
+-rwxr-xr-x   1 1328574  15010        1174 Feb 25  2017 email-addresses.php
+-rwxr-xr-x   1 1328574  15010        1044 Feb 25  2017 email-customer-details.php
+-rwxr-xr-x   1 1328574  15010        1630 Feb 25  2017 email-order-details.php
+-rwxr-xr-x   1 1328574  15010        2728 Feb 25  2017 email-order-items.php

@@ -1,0 +1,58 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="gallerymaker.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="gallerythumb.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\gallerythumb.jpg" />
+  <file dest="index.html" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="resources\gallery.swf" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\gallery.swf" />
+  <file dest="resources\groups\group.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\javascript\AC_OETags.js" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\javascript\AC_OETags.js" />
+  <file dest="resources\loading.swf" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\loading.swf" />
+  <file dest="resources\localization\localText.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\localization\localText.xml" />
+  <file dest="resources\media\08slideshow\large\200507310002.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\200507310002.jpg" />
+  <file dest="resources\media\08slideshow\large\200507310003.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\200507310003.jpg" />
+  <file dest="resources\media\08slideshow\large\200507310004.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\200507310004.jpg" />
+  <file dest="resources\media\08slideshow\large\200507310030.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\200507310030.jpg" />
+  <file dest="resources\media\08slideshow\large\200507310031.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\200507310031.jpg" />
+  <file dest="resources\media\08slideshow\large\200507310032.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\200507310032.jpg" />
+  <file dest="resources\media\08slideshow\large\200507310033.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\200507310033.jpg" />
+  <file dest="resources\media\08slideshow\large\200507310034.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\large\200507310034.jpg" />
+  <file dest="resources\media\08slideshow\medium\200507310002.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\200507310002.jpg" />
+  <file dest="resources\media\08slideshow\medium\200507310003.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\200507310003.jpg" />
+  <file dest="resources\media\08slideshow\medium\200507310004.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\200507310004.jpg" />
+  <file dest="resources\media\08slideshow\medium\200507310030.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\200507310030.jpg" />
+  <file dest="resources\media\08slideshow\medium\200507310031.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\200507310031.jpg" />
+  <file dest="resources\media\08slideshow\medium\200507310032.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\200507310032.jpg" />
+  <file dest="resources\media\08slideshow\medium\200507310033.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\200507310033.jpg" />
+  <file dest="resources\media\08slideshow\medium\200507310034.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\medium\200507310034.jpg" />
+  <file dest="resources\media\08slideshow\small\200507310002.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\200507310002.jpg" />
+  <file dest="resources\media\08slideshow\small\200507310003.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\200507310003.jpg" />
+  <file dest="resources\media\08slideshow\small\200507310004.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\200507310004.jpg" />
+  <file dest="resources\media\08slideshow\small\200507310030.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\200507310030.jpg" />
+  <file dest="resources\media\08slideshow\small\200507310031.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\200507310031.jpg" />
+  <file dest="resources\media\08slideshow\small\200507310032.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\200507310032.jpg" />
+  <file dest="resources\media\08slideshow\small\200507310033.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\200507310033.jpg" />
+  <file dest="resources\media\08slideshow\small\200507310034.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\small\200507310034.jpg" />
+  <file dest="resources\media\08slideshow\thumb\200507310002.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\200507310002.jpg" />
+  <file dest="resources\media\08slideshow\thumb\200507310003.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\200507310003.jpg" />
+  <file dest="resources\media\08slideshow\thumb\200507310004.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\200507310004.jpg" />
+  <file dest="resources\media\08slideshow\thumb\200507310030.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\200507310030.jpg" />
+  <file dest="resources\media\08slideshow\thumb\200507310031.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\200507310031.jpg" />
+  <file dest="resources\media\08slideshow\thumb\200507310032.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\200507310032.jpg" />
+  <file dest="resources\media\08slideshow\thumb\200507310033.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\200507310033.jpg" />
+  <file dest="resources\media\08slideshow\thumb\200507310034.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\08slideshow\thumb\200507310034.jpg" />
+  <file dest="resources\media\background\scalable\10Canvas.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\10Canvas.jpg" />
+  <file dest="resources\media\background\scalable\11HandMadePaper.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\11HandMadePaper.jpg" />
+  <file dest="resources\media\background\scalable\12Linen.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\12Linen.jpg" />
+  <file dest="resources\media\background\scalable\13Marble.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\13Marble.jpg" />
+  <file dest="resources\media\background\scalable\14GrassMat.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\14GrassMat.jpg" />
+  <file dest="resources\media\background\scalable\15GrayPaper.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\15GrayPaper.jpg" />
+  <file dest="resources\media\background\scalable\16Motion.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\16Motion.jpg" />
+  <file dest="resources\media\background\scalable\17Patina.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\17Patina.jpg" />
+  <file dest="resources\media\background\scalable\18PalmLeaf.jpg" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\media\background\scalable\18PalmLeaf.jpg" />
+  <file dest="resources\playerProductInstall.swf" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\playerProductInstall.swf" />
+  <file dest="resources\styles\02theblues.xml" src="C:\Documents and Settings\JOHN\Local Settings\Temp\Photo Galleries Temp\resources\styles\02theblues.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

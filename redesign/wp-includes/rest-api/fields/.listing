@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 1328574  15010         743 Feb 15  2017 class-wp-rest-comment-meta-fields.php
+-rwxr-xr-x   1 1328574  15010       13460 Feb 15  2017 class-wp-rest-meta-fields.php
+-rwxr-xr-x   1 1328574  15010        1098 Feb 15  2017 class-wp-rest-post-meta-fields.php
+-rwxr-xr-x   1 1328574  15010        1096 Feb 15  2017 class-wp-rest-term-meta-fields.php
+-rwxr-xr-x   1 1328574  15010         716 Feb 15  2017 class-wp-rest-user-meta-fields.php

@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 1328574  15010        3548 Feb 25  2017 BaseFutureTrait.php
+-rwxr-xr-x   1 1328574  15010         866 Feb 25  2017 CompletedFutureArray.php
+-rwxr-xr-x   1 1328574  15010        1377 Feb 25  2017 CompletedFutureValue.php
+-rwxr-xr-x   1 1328574  15010         766 Feb 25  2017 FutureArray.php
+-rwxr-xr-x   1 1328574  15010         213 Feb 25  2017 FutureArrayInterface.php
+-rwxr-xr-x   1 1328574  15010        1449 Feb 25  2017 FutureInterface.php
+-rwxr-xr-x   1 1328574  15010         294 Feb 25  2017 FutureValue.php
+-rwxr-xr-x   1 1328574  15010         907 Feb 25  2017 MagicFutureTrait.php

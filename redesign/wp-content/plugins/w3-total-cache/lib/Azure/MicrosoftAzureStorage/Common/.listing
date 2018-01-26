@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 1328574  15010        4953 Feb 25  2017 CloudConfigurationManager.php
+drwxr-xr-x   6 1328574  15010        4096 Feb 25  2017 Internal
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 Models
+-rwxr-xr-x   1 1328574  15010        2349 Feb 25  2017 ServiceException.php
+-rwxr-xr-x   1 1328574  15010       10571 Feb 25  2017 ServicesBuilder.php

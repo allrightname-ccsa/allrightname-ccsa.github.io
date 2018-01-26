@@ -1,0 +1,11 @@
+-rwxr-xr-x   1 1328574  15010       29536 Feb 25  2017 actions.php
+-rwxr-xr-x   1 1328574  15010        4398 Feb 25  2017 activation.php
+-rwxr-xr-x   1 1328574  15010        1093 Feb 25  2017 compatibility.php
+-rwxr-xr-x   1 1328574  15010        4582 Feb 25  2017 hooks.php
+-rwxr-xr-x   1 1328574  15010          27 Feb 25  2017 index.php
+-rwxr-xr-x   1 1328574  15010        3870 Feb 25  2017 menus.php
+-rwxr-xr-x   1 1328574  15010        6889 Feb 25  2017 notices.php
+-rwxr-xr-x   1 1328574  15010       12388 Feb 25  2017 scripts.php
+-rwxr-xr-x   1 1328574  15010       11591 Feb 25  2017 shortcodes.php
+-rwxr-xr-x   1 1328574  15010         575 Feb 25  2017 tinymce.php
+-rwxr-xr-x   1 1328574  15010        3152 Feb 25  2017 widgets.php

@@ -1,0 +1,10 @@
+drwxr-xr-x   2 1328574  15010        4096 Feb 15  2017 rtl
+drwxr-xr-x   3 1328574  15010        4096 Feb 15  2017 templates
+-rwxr-xr-x   1 1328574  15010         192 Feb 15  2017 tiled-gallery-circle.php
+-rwxr-xr-x   1 1328574  15010        3143 Feb 15  2017 tiled-gallery-item.php
+-rwxr-xr-x   1 1328574  15010        2846 Feb 15  2017 tiled-gallery-layout.php
+-rwxr-xr-x   1 1328574  15010        6983 Feb 15  2017 tiled-gallery-rectangular.php
+-rwxr-xr-x   1 1328574  15010        6648 Feb 15  2017 tiled-gallery-shape.php
+-rwxr-xr-x   1 1328574  15010        1893 Feb 15  2017 tiled-gallery-square.php
+-rwxr-xr-x   1 1328574  15010        2384 Feb 15  2017 tiled-gallery.css
+-rwxr-xr-x   1 1328574  15010        5713 Feb 15  2017 tiled-gallery.js

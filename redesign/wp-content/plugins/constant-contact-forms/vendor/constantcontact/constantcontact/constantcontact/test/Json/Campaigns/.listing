@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 1328574  15010        2124 Feb 25  2017 get_campaign.json
+-rwxr-xr-x   1 1328574  15010        1673 Feb 25  2017 get_campaigns.json
+-rwxr-xr-x   1 1328574  15010        3885 Feb 25  2017 get_preview.json
+-rwxr-xr-x   1 1328574  15010          65 Feb 25  2017 get_schedule.json
+-rwxr-xr-x   1 1328574  15010         169 Feb 25  2017 get_schedules.json
+-rwxr-xr-x   1 1328574  15010         122 Feb 25  2017 post_test_send.json

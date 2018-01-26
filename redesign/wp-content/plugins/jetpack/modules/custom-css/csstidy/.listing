@@ -1,0 +1,16 @@
+-rwxr-xr-x   1 1328574  15010       36759 Feb 15  2017 class.csstidy.php
+-rwxr-xr-x   1 1328574  15010        1401 Feb 15  2017 class.csstidy_ctype.php
+-rwxr-xr-x   1 1328574  15010       28837 Feb 15  2017 class.csstidy_optimise.php
+-rwxr-xr-x   1 1328574  15010       11702 Feb 15  2017 class.csstidy_print.php
+-rwxr-xr-x   1 1328574  15010        1278 Feb 15  2017 cssparse-rtl.css
+-rwxr-xr-x   1 1328574  15010        1138 Feb 15  2017 cssparse-rtl.min.css
+-rwxr-xr-x   1 1328574  15010        1181 Feb 15  2017 cssparse.css
+-rwxr-xr-x   1 1328574  15010        1229 Feb 15  2017 cssparse.min.css
+-rwxr-xr-x   1 1328574  15010         323 Feb 15  2017 cssparsed-rtl.css
+-rwxr-xr-x   1 1328574  15010         181 Feb 15  2017 cssparsed-rtl.min.css
+-rwxr-xr-x   1 1328574  15010         228 Feb 15  2017 cssparsed.css
+-rwxr-xr-x   1 1328574  15010         274 Feb 15  2017 cssparsed.min.css
+-rwxr-xr-x   1 1328574  15010        4503 Feb 15  2017 data-wp.inc.php
+-rwxr-xr-x   1 1328574  15010       42986 Feb 15  2017 data.inc.php
+-rwxr-xr-x   1 1328574  15010       16003 Feb 15  2017 lang.inc.php
+-rwxr-xr-x   1 1328574  15010          33 Feb 15  2017 wordpress-standard.tpl

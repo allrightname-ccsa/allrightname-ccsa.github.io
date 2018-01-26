@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 1328574  15010        3076 Feb 25  2017 AuthenticationFilter.php
+-rwxr-xr-x   1 1328574  15010        2274 Feb 25  2017 DateFilter.php
+-rwxr-xr-x   1 1328574  15010        4202 Feb 25  2017 ExponentialRetryPolicy.php
+-rwxr-xr-x   1 1328574  15010        2700 Feb 25  2017 HeadersFilter.php
+-rwxr-xr-x   1 1328574  15010        2186 Feb 25  2017 RetryPolicy.php
+-rwxr-xr-x   1 1328574  15010        3132 Feb 25  2017 RetryPolicyFilter.php

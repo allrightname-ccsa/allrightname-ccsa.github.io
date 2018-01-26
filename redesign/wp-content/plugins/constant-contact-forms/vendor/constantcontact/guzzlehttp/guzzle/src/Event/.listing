@@ -1,0 +1,17 @@
+-rwxr-xr-x   1 1328574  15010         377 Feb 25  2017 AbstractEvent.php
+-rwxr-xr-x   1 1328574  15010        1185 Feb 25  2017 AbstractRequestEvent.php
+-rwxr-xr-x   1 1328574  15010        1473 Feb 25  2017 AbstractRetryableEvent.php
+-rwxr-xr-x   1 1328574  15010        1644 Feb 25  2017 AbstractTransferEvent.php
+-rwxr-xr-x   1 1328574  15010         708 Feb 25  2017 BeforeEvent.php
+-rwxr-xr-x   1 1328574  15010         436 Feb 25  2017 CompleteEvent.php
+-rwxr-xr-x   1 1328574  15010        4562 Feb 25  2017 Emitter.php
+-rwxr-xr-x   1 1328574  15010        3542 Feb 25  2017 EmitterInterface.php
+-rwxr-xr-x   1 1328574  15010         842 Feb 25  2017 EndEvent.php
+-rwxr-xr-x   1 1328574  15010         676 Feb 25  2017 ErrorEvent.php
+-rwxr-xr-x   1 1328574  15010         545 Feb 25  2017 EventInterface.php
+-rwxr-xr-x   1 1328574  15010         235 Feb 25  2017 HasEmitterInterface.php
+-rwxr-xr-x   1 1328574  15010         347 Feb 25  2017 HasEmitterTrait.php
+-rwxr-xr-x   1 1328574  15010        3348 Feb 25  2017 ListenerAttacherTrait.php
+-rwxr-xr-x   1 1328574  15010        1631 Feb 25  2017 ProgressEvent.php
+-rwxr-xr-x   1 1328574  15010        1634 Feb 25  2017 RequestEvents.php
+-rwxr-xr-x   1 1328574  15010        1295 Feb 25  2017 SubscriberInterface.php

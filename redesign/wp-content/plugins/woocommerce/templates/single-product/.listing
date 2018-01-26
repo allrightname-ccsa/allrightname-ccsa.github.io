@@ -1,0 +1,17 @@
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 add-to-cart
+-rwxr-xr-x   1 1328574  15010        1656 Feb 25  2017 meta.php
+-rwxr-xr-x   1 1328574  15010        1234 Feb 25  2017 price.php
+-rwxr-xr-x   1 1328574  15010        2723 Feb 25  2017 product-attributes.php
+-rwxr-xr-x   1 1328574  15010        1813 Feb 25  2017 product-image.php
+-rwxr-xr-x   1 1328574  15010        1937 Feb 25  2017 product-thumbnails.php
+-rwxr-xr-x   1 1328574  15010        2038 Feb 25  2017 rating.php
+-rwxr-xr-x   1 1328574  15010        1848 Feb 25  2017 related.php
+-rwxr-xr-x   1 1328574  15010        1493 Feb 25  2017 review-meta.php
+-rwxr-xr-x   1 1328574  15010        1358 Feb 25  2017 review-rating.php
+-rwxr-xr-x   1 1328574  15010        1901 Feb 25  2017 review.php
+-rwxr-xr-x   1 1328574  15010         970 Feb 25  2017 sale-flash.php
+-rwxr-xr-x   1 1328574  15010         895 Feb 25  2017 share.php
+-rwxr-xr-x   1 1328574  15010         936 Feb 25  2017 short-description.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 tabs
+-rwxr-xr-x   1 1328574  15010         816 Feb 25  2017 title.php
+-rwxr-xr-x   1 1328574  15010        1782 Feb 25  2017 up-sells.php

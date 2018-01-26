@@ -1,0 +1,9 @@
+-rw-r--r--   1 1328574  15010        1188 Feb 25  2017 advanced-cache.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 cache
+-rwxr-xr-x   1 1328574  15010          28 Feb 15  2017 index.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 15  2017 mu-plugins
+drwxr-xr-x  14 1328574  15010        4096 Mar  6  2017 plugins
+drwxr-xr-x   6 1328574  15010        4096 Feb 25  2017 themes
+drwxr-xr-x   2 1328574  15010        4096 Mar  6  2017 upgrade
+drwxr-xr-x  10 1328574  15010        4096 Feb 25  2017 uploads
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 w3tc-config

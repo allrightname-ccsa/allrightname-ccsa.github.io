@@ -1,0 +1,10 @@
+-rwxr-xr-x   1 1328574  15010       12567 Feb 25  2017 ClassLoader.php
+-rwxr-xr-x   1 1328574  15010        6245 Feb 25  2017 ClassLoader52.php
+-rwxr-xr-x   1 1328574  15010        1075 Feb 25  2017 LICENSE
+-rwxr-xr-x   1 1328574  15010         147 Feb 25  2017 autoload_classmap.php
+-rwxr-xr-x   1 1328574  15010         286 Feb 25  2017 autoload_namespaces.php
+-rwxr-xr-x   1 1328574  15010         143 Feb 25  2017 autoload_psr4.php
+-rwxr-xr-x   1 1328574  15010        1681 Feb 25  2017 autoload_real.php
+-rwxr-xr-x   1 1328574  15010        1180 Feb 25  2017 autoload_real_52.php
+-rwxr-xr-x   1 1328574  15010         819 Feb 25  2017 autoload_static.php
+-rwxr-xr-x   1 1328574  15010        2480 Feb 25  2017 installed.json

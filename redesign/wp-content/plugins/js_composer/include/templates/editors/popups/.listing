@@ -1,0 +1,12 @@
+-rwxr-xr-x   1 1328574  15010         900 Feb 25  2017 modal_edit_element.tpl.php
+-rwxr-xr-x   1 1328574  15010         934 Feb 25  2017 panel_multi_shortcode_edit_form.tpl.php
+-rwxr-xr-x   1 1328574  15010        1022 Feb 25  2017 panel_shortcode_edit_form.tpl.php
+-rwxr-xr-x   1 1328574  15010        4118 Feb 25  2017 panel_templates_editor.tpl.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 shared-templates
+-rwxr-xr-x   1 1328574  15010         822 Feb 25  2017 vc_ui-footer.tpl.php
+-rwxr-xr-x   1 1328574  15010        1803 Feb 25  2017 vc_ui-header.tpl.php
+-rwxr-xr-x   1 1328574  15010        1903 Feb 25  2017 vc_ui-panel-add-element.tpl.php
+-rwxr-xr-x   1 1328574  15010        1613 Feb 25  2017 vc_ui-panel-edit-element.tpl.php
+-rwxr-xr-x   1 1328574  15010        2304 Feb 25  2017 vc_ui-panel-post-settings.tpl.php
+-rwxr-xr-x   1 1328574  15010        2257 Feb 25  2017 vc_ui-panel-row-layout.tpl.php
+-rwxr-xr-x   1 1328574  15010        1906 Feb 25  2017 vc_ui-panel-templates.tpl.php

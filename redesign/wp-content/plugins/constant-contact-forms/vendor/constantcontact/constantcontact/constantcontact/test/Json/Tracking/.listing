@@ -1,0 +1,7 @@
+-rwxr-xr-x   1 1328574  15010        1048 Feb 25  2017 get_bounces.json
+-rwxr-xr-x   1 1328574  15010         849 Feb 25  2017 get_clicks.json
+-rwxr-xr-x   1 1328574  15010         807 Feb 25  2017 get_forwards.json
+-rwxr-xr-x   1 1328574  15010         792 Feb 25  2017 get_opens.json
+-rwxr-xr-x   1 1328574  15010        1015 Feb 25  2017 get_opt_outs.json
+-rwxr-xr-x   1 1328574  15010        1090 Feb 25  2017 get_sends.json
+-rwxr-xr-x   1 1328574  15010         149 Feb 25  2017 get_summary.json

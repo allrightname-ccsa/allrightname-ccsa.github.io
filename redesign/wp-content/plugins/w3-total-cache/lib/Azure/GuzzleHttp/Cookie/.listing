@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 1328574  15010        7858 Feb 25  2017 CookieJar.php
+-rwxr-xr-x   1 1328574  15010        2786 Feb 25  2017 CookieJarInterface.php
+-rwxr-xr-x   1 1328574  15010        2617 Feb 25  2017 FileCookieJar.php
+-rwxr-xr-x   1 1328574  15010        1920 Feb 25  2017 SessionCookieJar.php
+-rwxr-xr-x   1 1328574  15010       10409 Feb 25  2017 SetCookie.php

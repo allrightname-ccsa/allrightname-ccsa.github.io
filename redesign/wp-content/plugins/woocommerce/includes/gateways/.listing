@@ -1,0 +1,7 @@
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 bacs
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 cheque
+-rwxr-xr-x   1 1328574  15010        3652 Feb 25  2017 class-wc-payment-gateway-cc.php
+-rwxr-xr-x   1 1328574  15010        2213 Feb 25  2017 class-wc-payment-gateway-echeck.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 cod
+drwxr-xr-x   4 1328574  15010        4096 Feb 25  2017 paypal
+drwxr-xr-x   4 1328574  15010        4096 Feb 25  2017 simplify-commerce

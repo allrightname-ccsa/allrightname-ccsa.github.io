@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 1328574  15010        7747 Feb 25  2017 AUTHORS
+-rwxr-xr-x   1 1328574  15010        3689 Feb 25  2017 CONTRIBUTING.md
+-rwxr-xr-x   1 1328574  15010        1094 Feb 25  2017 LICENSE
+-rwxr-xr-x   1 1328574  15010        1409 Feb 25  2017 README.md
+drwxr-xr-x  17 1328574  15010        4096 Feb 25  2017 addon
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 keymap
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 lib
+drwxr-xr-x  10 1328574  15010        4096 Feb 25  2017 mode
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 theme

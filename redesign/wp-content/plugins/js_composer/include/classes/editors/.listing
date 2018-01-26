@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 1328574  15010        8676 Feb 25  2017 class-vc-backend-editor.php
+-rwxr-xr-x   1 1328574  15010       10851 Feb 25  2017 class-vc-edit-form-fields.php
+-rwxr-xr-x   1 1328574  15010       27377 Feb 25  2017 class-vc-frontend-editor.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 navbar
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 popups

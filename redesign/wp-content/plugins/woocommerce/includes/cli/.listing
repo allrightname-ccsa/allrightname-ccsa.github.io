@@ -1,0 +1,10 @@
+-rwxr-xr-x   1 1328574  15010       11521 Feb 25  2017 class-wc-cli-command.php
+-rwxr-xr-x   1 1328574  15010       22513 Feb 25  2017 class-wc-cli-coupon.php
+-rwxr-xr-x   1 1328574  15010       19728 Feb 25  2017 class-wc-cli-customer.php
+-rwxr-xr-x   1 1328574  15010         979 Feb 25  2017 class-wc-cli-exception.php
+-rwxr-xr-x   1 1328574  15010       37981 Feb 25  2017 class-wc-cli-order.php
+-rwxr-xr-x   1 1328574  15010        3760 Feb 25  2017 class-wc-cli-product-category.php
+-rwxr-xr-x   1 1328574  15010       68359 Feb 25  2017 class-wc-cli-product.php
+-rwxr-xr-x   1 1328574  15010       10942 Feb 25  2017 class-wc-cli-report.php
+-rwxr-xr-x   1 1328574  15010       16047 Feb 25  2017 class-wc-cli-tax.php
+-rwxr-xr-x   1 1328574  15010         592 Feb 25  2017 class-wc-cli-tool.php

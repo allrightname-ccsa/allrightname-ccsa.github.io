@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 1328574  15010        5419 Feb 25  2017 CancelTestTrait.php
+-rwxr-xr-x   1 1328574  15010         305 Feb 25  2017 FullTestTrait.php
+-rwxr-xr-x   1 1328574  15010        9001 Feb 25  2017 NotifyTestTrait.php
+-rwxr-xr-x   1 1328574  15010        9478 Feb 25  2017 PromiseFulfilledTestTrait.php
+-rwxr-xr-x   1 1328574  15010        1890 Feb 25  2017 PromisePendingTestTrait.php
+-rwxr-xr-x   1 1328574  15010       14095 Feb 25  2017 PromiseRejectedTestTrait.php
+-rwxr-xr-x   1 1328574  15010        2356 Feb 25  2017 PromiseSettledTestTrait.php
+-rwxr-xr-x   1 1328574  15010       10050 Feb 25  2017 RejectTestTrait.php
+-rwxr-xr-x   1 1328574  15010        6714 Feb 25  2017 ResolveTestTrait.php

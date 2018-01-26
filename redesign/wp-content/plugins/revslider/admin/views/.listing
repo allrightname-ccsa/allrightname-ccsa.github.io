@@ -1,0 +1,10 @@
+-rwxr-xr-x   1 1328574  15010           0 Feb 25  2017 index.php
+-rwxr-xr-x   1 1328574  15010       21974 Feb 25  2017 master-view.php
+-rwxr-xr-x   1 1328574  15010       85568 Feb 25  2017 navigation-editor.php
+-rwxr-xr-x   1 1328574  15010        8190 Feb 25  2017 rev_addon-admin-display.php
+-rwxr-xr-x   1 1328574  15010       82651 Feb 25  2017 slide-editor.php
+-rwxr-xr-x   1 1328574  15010        1243 Feb 25  2017 slide-overview.php
+-rwxr-xr-x   1 1328574  15010         846 Feb 25  2017 slider-editor.php
+-rwxr-xr-x   1 1328574  15010       40040 Feb 25  2017 slider-overview.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 system
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 templates

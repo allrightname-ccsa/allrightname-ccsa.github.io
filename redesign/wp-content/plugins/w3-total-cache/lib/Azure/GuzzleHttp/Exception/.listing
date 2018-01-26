@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 1328574  15010         160 Feb 25  2017 BadResponseException.php
+-rwxr-xr-x   1 1328574  15010         161 Feb 25  2017 ClientException.php
+-rwxr-xr-x   1 1328574  15010         726 Feb 25  2017 ConnectException.php
+-rwxr-xr-x   1 1328574  15010          68 Feb 25  2017 GuzzleException.php
+-rwxr-xr-x   1 1328574  15010        5633 Feb 25  2017 RequestException.php
+-rwxr-xr-x   1 1328574  15010         588 Feb 25  2017 SeekException.php
+-rwxr-xr-x   1 1328574  15010         161 Feb 25  2017 ServerException.php
+-rwxr-xr-x   1 1328574  15010          99 Feb 25  2017 TooManyRedirectsException.php
+-rwxr-xr-x   1 1328574  15010         119 Feb 25  2017 TransferException.php

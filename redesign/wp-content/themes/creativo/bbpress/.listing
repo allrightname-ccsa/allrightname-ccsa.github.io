@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 1328574  15010        1301 Feb 25  2017 content-single-forum.php
+-rwxr-xr-x   1 1328574  15010        1070 Feb 25  2017 content-single-topic.php
+-rwxr-xr-x   1 1328574  15010         731 Feb 25  2017 form-search.php
+-rwxr-xr-x   1 1328574  15010        1061 Feb 25  2017 loop-forums.php
+-rwxr-xr-x   1 1328574  15010        1487 Feb 25  2017 loop-replies.php
+-rwxr-xr-x   1 1328574  15010        2958 Feb 25  2017 loop-single-topic.php
+-rwxr-xr-x   1 1328574  15010         465 Feb 25  2017 pagination-replies.php
+-rwxr-xr-x   1 1328574  15010         452 Feb 25  2017 pagination-search.php
+-rwxr-xr-x   1 1328574  15010         464 Feb 25  2017 pagination-topics.php

@@ -1,0 +1,12 @@
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 day
+-rwxr-xr-x   1 1328574  15010         547 Feb 25  2017 day.php
+-rwxr-xr-x   1 1328574  15010         622 Feb 25  2017 default-template.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 embed
+-rwxr-xr-x   1 1328574  15010        1728 Feb 25  2017 embed.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 list
+-rwxr-xr-x   1 1328574  15010         682 Feb 25  2017 list.php
+drwxr-xr-x   3 1328574  15010        4096 Feb 25  2017 modules
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 month
+-rwxr-xr-x   1 1328574  15010         483 Feb 25  2017 month.php
+-rwxr-xr-x   1 1328574  15010        3400 Feb 25  2017 single-event.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 widgets

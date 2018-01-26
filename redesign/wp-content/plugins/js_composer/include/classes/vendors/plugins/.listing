@@ -1,0 +1,14 @@
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 acf
+-rwxr-xr-x   1 1328574  15010        2126 Feb 25  2017 class-vc-vendor-advanced-custom-fields.php
+-rwxr-xr-x   1 1328574  15010       12238 Feb 25  2017 class-vc-vendor-contact-form7.php
+-rwxr-xr-x   1 1328574  15010        2031 Feb 25  2017 class-vc-vendor-jwplayer.php
+-rwxr-xr-x   1 1328574  15010        3745 Feb 25  2017 class-vc-vendor-layerslider.php
+-rwxr-xr-x   1 1328574  15010         753 Feb 25  2017 class-vc-vendor-mqtranslate.php
+-rwxr-xr-x   1 1328574  15010        2990 Feb 25  2017 class-vc-vendor-ninja-forms.php
+-rwxr-xr-x   1 1328574  15010        2552 Feb 25  2017 class-vc-vendor-qtranslate-x.php
+-rwxr-xr-x   1 1328574  15010        9086 Feb 25  2017 class-vc-vendor-qtranslate.php
+-rwxr-xr-x   1 1328574  15010        4024 Feb 25  2017 class-vc-vendor-revslider.php
+-rwxr-xr-x   1 1328574  15010       53585 Feb 25  2017 class-vc-vendor-woocommerce.php
+-rwxr-xr-x   1 1328574  15010        1523 Feb 25  2017 class-vc-vendor-wpml.php
+-rwxr-xr-x   1 1328574  15010        2642 Feb 25  2017 class-vc-vendor-yoast_seo.php
+drwxr-xr-x   2 1328574  15010        4096 Feb 25  2017 woocommerce

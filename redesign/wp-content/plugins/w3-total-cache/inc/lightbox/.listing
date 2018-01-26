@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 1328574  15010         819 Feb 25  2017 cdn_s3_bucket_location.php
+-rwxr-xr-x   1 1328574  15010        1824 Feb 25  2017 create_netdna_maxcdn_pull_zone.php
+-rwxr-xr-x   1 1328574  15010        1094 Feb 25  2017 edge.php
+-rwxr-xr-x   1 1328574  15010           0 Feb 25  2017 index.html
+-rwxr-xr-x   1 1328574  15010        6531 Feb 25  2017 minify_recommendations.php
+-rwxr-xr-x   1 1328574  15010         213 Feb 25  2017 purchase.php
+-rwxr-xr-x   1 1328574  15010       14098 Feb 25  2017 self_test.php
+-rwxr-xr-x   1 1328574  15010        5572 Feb 25  2017 support_us.php
+-rwxr-xr-x   1 1328574  15010        2052 Feb 25  2017 upgrade.php
